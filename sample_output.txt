@@ -1,0 +1,66 @@
+===================== SAMPLE OUTPUT =====================
+
+================= BST & AVL TREES =================
+
+BST Inorder Traversal:
+ [101] Admin - Administrative block
+ [102] Library - Library building
+ [103] CSE - Computer Science Dept
+ [104] ECE - Electronics Dept
+ [105] Cafeteria - Student canteen
+ [106] Gym - Sports complex
+
+AVL Inorder Traversal:
+ [101] Admin - Administrative block
+ [102] Library - Library building
+ [103] CSE - Computer Science Dept
+ [104] ECE - Electronics Dept
+ [105] Cafeteria - Student canteen
+ [106] Gym - Sports complex
+
+BST Height: 6
+AVL Height: 3
+
+====================================================
+
+==================== GRAPH OUTPUT ==================
+
+BFS from Admin (101):
+ 0 -> 1 -> 2 -> 3 -> 4 -> 5
+
+DFS from Admin (101):
+ 0 -> 1 -> 2 -> 3 -> 4 -> 5
+
+Dijkstra Shortest Distances from Admin (101):
+Node 0 (Admin):      0
+Node 1 (Library):    5
+Node 2 (CSE):       10
+Node 3 (ECE):       16
+Node 4 (Cafeteria): 14
+Node 5 (Gym):       17
+
+Kruskal MST Edges:
+ Cafeteria (105)  --3--  Gym (106)
+ CSE (103)        --4--  Cafeteria (105)
+ Admin (101)      --5--  Library (102)
+ CSE (103)        --6--  ECE (104)
+ Admin (101)      --10-- CSE (103)
+
+Total MST Cost: 28
+
+====================================================
+
+================= EXPRESSION TREE ==================
+
+Expression:
+ (100 * 0.18 + 50) * 1.12
+
+Postfix:
+ 100 0.18 * 50 + 1.12 *
+
+Result:
+ 76.16
+
+====================================================
+
+===================== END OF OUTPUT ======================
