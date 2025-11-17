@@ -1,6 +1,6 @@
-===================== SAMPLE OUTPUT =====================
+SAMPLE OUTPUT 
 
-================= BST & AVL TREES =================
+
 
 BST Inorder Traversal:
  [101] Admin - Administrative block
@@ -21,9 +21,6 @@ AVL Inorder Traversal:
 BST Height: 6
 AVL Height: 3
 
-====================================================
-
-==================== GRAPH OUTPUT ==================
 
 BFS from Admin (101):
  0 -> 1 -> 2 -> 3 -> 4 -> 5
@@ -48,10 +45,6 @@ Kruskal MST Edges:
 
 Total MST Cost: 28
 
-====================================================
-
-================= EXPRESSION TREE ==================
-
 Expression:
  (100 * 0.18 + 50) * 1.12
 
@@ -61,6 +54,3 @@ Postfix:
 Result:
  76.16
 
-====================================================
-
-===================== END OF OUTPUT ======================
