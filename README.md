@@ -55,3 +55,61 @@ Make sure Python 3 is installed.
 
 Run the program:
 
+---
+
+## 🚀 How to Run
+
+Make sure Python 3 is installed.
+
+Run the program:
+
+
+---
+
+## 📦 Project Files
+
+| File | Description |
+|------|-------------|
+| `campus_planner.py` | Main Python implementation |
+| `README.md` | You are reading it |
+| `report.md` | Written explanation of all algorithms |
+| `sample_output.txt` | Example output from running the program |
+
+---
+
+## 📝 Output Preview
+
+Running the script prints:
+- BST & AVL inorder traversal  
+- Tree heights  
+- BFS & DFS traversal  
+- Dijkstra shortest-path results  
+- Kruskal MST edges  
+- Expression Tree evaluated result  
+
+---
+
+## 🧑‍🎓 Purpose
+
+This project is part of a Data Structures & Algorithms assignment.  
+It demonstrates understanding of:
+- Trees  
+- Balanced trees  
+- Graph theory  
+- Shortest path/MST algorithms  
+- Expression trees  
+
+---
+
+## 👨‍💻 Author
+
+Your Name  
+(You can fill in your details here.)
+
+---
+
+## 📄 License
+
+This is an educational project. Free to use for learning.
+
+
