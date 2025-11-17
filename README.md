@@ -72,7 +72,7 @@ Run the program:
 |------|-------------|
 | `campus_planner.py` | Main Python implementation |
 | `README.md` | You are reading it |
-| `report.md` | Written explanation of all algorithms |
+| `report.pdf` | Written explanation of all algorithms |
 | `sample_output.txt` | Example output from running the program |
 
 ---
@@ -104,12 +104,9 @@ It demonstrates understanding of:
 ## 👨‍💻 Author
 
 Your Name  
-(You can fill in your details here.)
+(Kunal Thakran)
 
 ---
 
-## 📄 License
-
-This is an educational project. Free to use for learning.
 
 
